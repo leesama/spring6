@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="$MODULE_DIR$/spring6-first/pom.xml" external.system.module.type="SINGLE_MODULE" external.system.module.version="223-2" org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_19">
+    <output url="file://$MODULE_DIR$/spring6-first/target/classes" />
+    <output-test url="file://$MODULE_DIR$/spring6-first/target/test-classes" />
+    <content url="file://$MODULE_DIR$/spring6-first">
+      <sourceFolder url="file://$MODULE_DIR$/spring6-first/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/spring6-first/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/spring6-first/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/spring6-first/src/test/resources" type="java-test-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/spring6-first/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
